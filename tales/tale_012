@@ -1,0 +1,38 @@
+{
+    "taleId": "tale_012",
+    "talePackage": {
+        "tr": "Doğa Bilgilendirici Paket",
+        "en": "Nature Educational Package",
+        "de": "Natur-Bildungspaket",
+        "es": "Paquete Educativo de Naturaleza",
+        "zh": "自然教育包",
+        "ja": "自然教育パッケージ"
+    },
+    "taleImage": "assets/images/tales/ruzgarin_sarkisi.png",
+    "translations": {
+        "tr": {
+            "taleName": "[HERO] ve Rüzgarın Şarkısı",
+            "taleText": "[HERO], bir tepenin yamacında, rüzgârla konuşabilen bir çocuktu... (devamı)"
+        },
+        "en": {
+            "taleName": "[HERO] and the Song of the Wind",
+            "taleText": "[HERO] was a child who could talk to the wind on a hillside... (rest of the story)"
+        },
+        "de": {
+            "taleName": "[HERO] und das Lied des Windes",
+            "taleText": "[HERO] war ein Kind, das mit dem Wind sprechen konnte... (Rest der Geschichte)"
+        },
+        "es": {
+            "taleName": "[HERO] y la Canción del Viento",
+            "taleText": "[HERO] era un niño que podía hablar con el viento... (el resto del cuento)"
+        },
+        "zh": {
+            "taleName": "[HERO] 与风之歌",
+            "taleText": "[HERO] 是一个能听懂风儿说话的孩子……（故事的其余部分）"
+        },
+        "ja": {
+            "taleName": "[HERO] と風のうた",
+            "taleText": "[HERO] は風と話せる子どもでした…（物語の続き）"
+        }
+    }
+}
