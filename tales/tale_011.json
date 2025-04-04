@@ -1,0 +1,38 @@
+{
+    "taleId": "tale_011",
+    "talePackage": {
+        "tr": "Doğa Bilgilendirici Paket",
+        "en": "Nature Educational Package",
+        "de": "Natur-Bildungspaket",
+        "es": "Paquete Educativo de Naturaleza",
+        "zh": "自然教育包",
+        "ja": "自然教育パッケージ"
+    },
+    "taleImage": "assets/images/tales/yagmur_damlasi_macera.png",
+    "translations": {
+        "tr": {
+            "taleName": "[HERO] ve Yağmur Damlasının Macerası",
+            "taleText": "[HERO], pencere kenarında oturmuş yağmuru izliyordu... (devamı)"
+        },
+        "en": {
+            "taleName": "[HERO] and the Adventure of the Raindrop",
+            "taleText": "[HERO] was sitting by the window, watching the rain... (rest of the story)"
+        },
+        "de": {
+            "taleName": "[HERO] und das Abenteuer des Regentropfens",
+            "taleText": "[HERO] saß am Fenster und beobachtete den Regen... (Rest der Geschichte)"
+        },
+        "es": {
+            "taleName": "[HERO] y la Aventura de la Gota de Lluvia",
+            "taleText": "[HERO] estaba sentado junto a la ventana mirando la lluvia... (el resto del cuento)"
+        },
+        "zh": {
+            "taleName": "[HERO] 与雨滴的冒险之旅",
+            "taleText": "[HERO] 坐在窗边，看着窗外的雨……（故事的其余部分）"
+        },
+        "ja": {
+            "taleName": "[HERO] と雨のしずくの冒険",
+            "taleText": "[HERO] は窓辺に座りながら雨を眺めていました…（物語の続き）"
+        }
+    }
+}
