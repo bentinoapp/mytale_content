@@ -1,0 +1,38 @@
+{
+  "taleId": "tale_013",
+  "talePackage": {
+    "tr": "Doğa Bilgilendirici Paket",
+    "en": "Nature Educational Package",
+    "de": "Natur-Bildungspaket",
+    "es": "Paquete Educativo de Naturaleza",
+    "zh": "自然教育包",
+    "ja": "自然教育パッケージ"
+  },
+  "taleImage": "https://bentinoapp.github.io/mytale_content/images/tale_013.png",
+  "translations": {
+    "tr": {
+      "taleName": "[HERO] ve Ormanın Kayıp Çiçekleri",
+      "taleText": "[HERO], doğayı çok seven bir çocuktu. Her sabah ormana gider, çiçekleri ve arıları izlerdi. Bir gün en sevdiği çiçeklerin açmadığını fark etti. Merak edip arı dostu Meli’ye sordu. Meli, \"İnsanlar çiçeklerin olduğu alanlara beton döktü, artık yiyecek bulamıyoruz\" dedi. [HERO], okulda çiçek dikme kampanyası başlattı. Tüm arkadaşlarıyla birlikte yeni çiçekler ekti. Birkaç hafta sonra orman renklerle doldu, arılar yeniden vızıldamaya başladı. [HERO], doğaya olan sevgisiyle ormanın kahramanı oldu."
+    },
+    "en": {
+      "taleName": "[HERO] and the Forest’s Missing Flowers",
+      "taleText": "[HERO] loved nature deeply. Every morning, they visited the forest to watch flowers and bees. One day, their favorite flowers didn’t bloom. Curious, they asked their bee friend, Meli. Meli said, \"People poured concrete where flowers used to grow. We can’t find food anymore.\" [HERO] started a flower planting campaign at school. Together with their friends, they planted many new flowers. A few weeks later, the forest was full of colors, and the bees buzzed joyfully again. Thanks to [HERO], nature found its smile once more."
+    },
+    "de": {
+      "taleName": "[HERO] und die verschwundenen Blumen des Waldes",
+      "taleText": "[HERO] liebte die Natur über alles. Jeden Morgen ging es in den Wald, um Blumen und Bienen zu beobachten. Eines Tages blühten die Lieblingsblumen nicht mehr. Neugierig fragte es seine Bienenfreundin Meli. Meli sagte: \"Die Menschen haben Beton auf die Blumenwiesen gegossen. Wir finden keine Nahrung mehr.\" [HERO] startete eine Blumenpflanzaktion in der Schule. Zusammen mit den Freunden pflanzte es viele neue Blumen. Wochen später war der Wald voller Farben, und die Bienen summten fröhlich. Dank [HERO] lächelte die Natur wieder."
+    },
+    "es": {
+      "taleName": "[HERO] y las Flores Perdidas del Bosque",
+      "taleText": "[HERO] amaba la naturaleza profundamente. Cada mañana visitaba el bosque para ver flores y abejas. Un día, sus flores favoritas no florecieron. Con curiosidad, preguntó a su amiga abeja, Meli. Meli dijo: \"Las personas echaron cemento donde solían crecer las flores. Ya no encontramos comida.\" [HERO] organizó una campaña para plantar flores en la escuela. Con sus amigos, plantaron muchas flores nuevas. Semanas después, el bosque estaba lleno de colores y las abejas zumbaban felices. Gracias a [HERO], la naturaleza volvió a brillar."
+    },
+    "zh": {
+      "taleName": "[HERO] 与森林失踪的花朵",
+      "taleText": "[HERO] 非常热爱大自然。每天早上都去森林看花和蜜蜂。一天，他发现最喜欢的花没有开。他问了蜜蜂朋友梅莉。梅莉说：“人们在花开之地倒了水泥，我们找不到食物了。” [HERO] 在学校发起了种花活动。他和朋友们一起种下了很多新花。几个星期后，森林变得五彩缤纷，蜜蜂们又欢快地嗡嗡叫了。多亏了 [HERO]，大自然重新绽放了笑容。"
+    },
+    "ja": {
+      "taleName": "[HERO] と森の失われた花々",
+      "taleText": "[HERO] は自然が大好きな子どもでした。毎朝、花やハチを見るために森を訪れていました。ある日、大好きな花が咲いていないことに気づきました。不思議に思って、ハチの友達メリに聞きました。メリは「人間が花があった場所にコンクリートを流してしまったの。もう食べ物が見つからないの」と言いました。[HERO] は学校で花植えキャンペーンを始めました。友達と一緒にたくさんの花を植えました。数週間後、森は再び色とりどりになり、ハチたちも元気に飛び回りました。[HERO] は森のヒーローになったのです。"
+    }
+  }
+}
