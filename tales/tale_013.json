@@ -1,12 +1,12 @@
 {
   "taleId": "tale_013",
   "talePackage": {
-    "tr": "Doğa Bilgilendirici Paket",
-    "en": "Nature Educational Package",
-    "de": "Natur-Bildungspaket",
-    "es": "Paquete Educativo de Naturaleza",
-    "zh": "自然教育包",
-    "ja": "自然教育パッケージ"
+    "tr": "Premium Paket",
+    "en": "Premium Package",
+    "de": "Premium-Paket",
+    "es": "Paquete Premium",
+    "zh": "高级包",
+    "ja": "プレミアムパッケージ"
   },
   "taleImage": "https://bentinoapp.github.io/mytale_content/images/tale_013.png",
   "translations": {
