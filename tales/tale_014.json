@@ -1,0 +1,38 @@
+{
+  "taleId": "tale_014",
+  "talePackage": {
+    "tr": "Özel Gün Masalları",
+    "en": "Special Day Tales",
+    "de": "Geschichten zu besonderen Anlässen",
+    "es": "Cuentos para Días Especiales",
+    "zh": "特殊日子的故事",
+    "ja": "特別な日の物語"
+  },
+  "taleImage": "https://bentinoapp.github.io/mytale_content/images/tale_014.png",
+  "translations": {
+    "tr": {
+      "taleName": "[HERO] ve Dünya Kitap Günü Sürprizi",
+      "taleText": "Her yıl 23 Nisan’da olduğu gibi bu yıl da okuldaki herkes çok heyecanlıydı. Ama [HERO] için bu günün başka bir anlamı daha vardı: Dünya Kitap Günü! [HERO], kitapları çok severdi ve sınıf arkadaşlarının da kitapları sevmesi için bir sürpriz planladı. Evde kullanılmayan küçük bir kitaplık buldu ve onu süsleyerek sınıfa getirdi. Üzerine 'Al, Oku, Paylaş!' yazdı. O gün öğretmenleri, herkesin en sevdiği kitabı tanıtmasını istedi. [HERO], \"Bu kitaplığı her gün açık tutalım, isteyen alsın, okuyup geri getirsin,\" dedi. Arkadaşları çok sevindi. Zamanla kitaplık doldu taştı. Artık sınıfta sadece ders değil, kitap sohbetleri de vardı. Dünya Kitap Günü, [HERO]'nun sayesinde okulun en özel günü oldu."
+    },
+    "en": {
+      "taleName": "[HERO] and the World Book Day Surprise",
+      "taleText": "As always on April 23rd, everyone at school was very excited. But for [HERO], the day held another special meaning: World Book Day! [HERO] loved books and wanted their classmates to love them too. They found an unused small bookshelf at home and decorated it to bring to school. On it, they wrote: 'Take, Read, Share!' That day, the teacher asked everyone to introduce their favorite book. [HERO] said, \"Let’s keep this bookshelf open every day. Anyone can take a book, read it, and bring it back.\" Their friends loved the idea. Soon, the shelf was overflowing with books. Now the classroom wasn’t just for lessons—it became a place for book talks too. Thanks to [HERO], World Book Day became the most special day in school."
+    },
+    "de": {
+      "taleName": "[HERO] und die Überraschung zum Welttag des Buches",
+      "taleText": "Wie jedes Jahr am 23. April war die Schule voller Aufregung. Doch für [HERO] hatte der Tag eine besondere Bedeutung: der Welttag des Buches! [HERO] liebte Bücher über alles und wollte, dass auch die Klassenkamerad*innen Bücher lieben. Zuhause fand [HERO] ein unbenutztes kleines Bücherregal, schmückte es und brachte es in die Klasse. Darauf stand: 'Nimm, Lies, Teile!' An diesem Tag bat die Lehrerin alle, ihr Lieblingsbuch vorzustellen. [HERO] sagte: „Lasst uns dieses Regal immer offen lassen. Wer will, kann sich ein Buch nehmen, lesen und wiederbringen.“ Die Freund*innen waren begeistert. Schon bald war das Regal randvoll mit Büchern. Der Klassenraum wurde nicht nur ein Ort zum Lernen, sondern auch zum Geschichten teilen. Dank [HERO] wurde der Welttag des Buches zum schönsten Tag der Schule."
+    },
+    "es": {
+      "taleName": "[HERO] y la Sorpresa del Día del Libro",
+      "taleText": "Como cada 23 de abril, todos en la escuela estaban muy emocionados. Pero para [HERO], ese día tenía otro significado especial: ¡el Día Mundial del Libro! A [HERO] le encantaban los libros y quería que sus compañeros también los amaran. Encontró una pequeña estantería en casa, la decoró y la llevó al salón. Escribió en ella: '¡Toma, Lee, Comparte!' Ese día, la maestra pidió a todos que presentaran su libro favorito. [HERO] dijo: \"Dejemos esta estantería siempre abierta. Quien quiera, puede tomar un libro, leerlo y devolverlo.\" A sus amigos les encantó la idea. Pronto, la estantería estaba llena de libros. Ahora la clase no solo era para estudiar, también para hablar de libros. Gracias a [HERO], el Día del Libro se convirtió en el día más especial de la escuela."
+    },
+    "zh": {
+      "taleName": "[HERO] 与世界读书日的惊喜",
+      "taleText": "每年的4月23日，学校里总是充满了兴奋。今年也不例外。但对 [HERO] 来说，这一天还有一个特别的意义：世界读书日！[HERO] 非常喜欢书，也希望同学们能爱上阅读。他在家找到一个闲置的小书架，装饰后带到学校，并写上“取阅分享”几个字。那天，老师请每位学生介绍自己最喜欢的书。[HERO] 说：“让我们每天都开放这个书架，大家可以随时借阅。”同学们都很喜欢这个主意。没过多久，书架上摆满了各种书。教室不再只是学习的地方，也成为了读书交流的空间。多亏了 [HERO]，世界读书日变成了学校最特别的一天。"
+    },
+    "ja": {
+      "taleName": "[HERO] と世界本の日のサプライズ",
+      "taleText": "毎年4月23日は学校でワクワクする日。でも、[HERO] にとっては特別な意味があった。それは「世界本の日」！[HERO] は本が大好きで、クラスのみんなにも本を好きになってほしかった。家で使っていない小さな本棚を見つけて、きれいに飾って教室に持ってきた。そこには「取って、読んで、共有しよう！」と書いた。その日、先生はみんなにお気に入りの本を紹介させた。[HERO] は言った。「この本棚はいつでも使えるようにしよう。読みたい人は自由に取って、読み終わったら戻せばいいよ。」みんな大喜び。やがて本棚は本でいっぱいになった。教室は学びの場だけでなく、本の話をする楽しい場所にもなった。[HERO] のおかげで、世界本の日は学校で一番特別な日になった。"
+    }
+  }
+}
