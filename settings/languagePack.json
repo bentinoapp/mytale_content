@@ -1,0 +1,63 @@
+const Map<String, Map<String, String>> translations = {
+      'tr': {
+        'nature_package': 'Doğa Bilgilendirici Paket',
+        'nature_package_desc': 'Doğa ve çevre temalı eğitici masallar',
+        'premium_package': 'Premium Paket',
+        'premium_package_desc': 'Özel içerikli ve interaktif masallar',
+        'sports_package': 'Spor İçerikli Paket',
+        'sports_package_desc': 'Spor ve sağlıklı yaşam temalı masallar',
+        'history_package': 'Tarih Bilgilendirici Paket',
+        'history_package_desc': 'Tarihi olaylar ve karakterler hakkında masallar',
+        
+      },
+      'en': {
+        'nature_package': 'Nature Educational Package',
+        'nature_package_desc': 'Educational tales about nature and environment',
+        'premium_package': 'Premium Package',
+        'premium_package_desc': 'Special content and interactive tales',
+        'sports_package': 'Sports Package',
+        'sports_package_desc': 'Tales about sports and healthy living',
+        'history_package': 'History Educational Package',
+        'history_package_desc': 'Tales about historical events and characters'
+      },
+      'de': {
+        'nature_package': 'Natur-Bildungspaket',
+        'nature_package_desc': 'Lehrreiche Geschichten über Natur und Umwelt',
+        'premium_package': 'Premium-Paket',
+        'premium_package_desc': 'Spezielle Inhalte und interaktive Geschichten',
+        'sports_package': 'Sport-Paket',
+        'sports_package_desc': 'Geschichten über Sport und gesundes Leben',
+        'history_package': 'Geschichts-Bildungspaket',
+        'history_package_desc': 'Geschichten über historische Ereignisse und Charaktere'
+      },
+      'zh': {
+        'nature_package': '自然教育包',
+        'nature_package_desc': '关于自然和环境的教育故事',
+        'premium_package': '高级包',
+        'premium_package_desc': '特别内容和互动故事',
+        'sports_package': '运动包',
+        'sports_package_desc': '关于运动和健康生活的故事',
+        'history_package': '历史教育包',
+        'history_package_desc': '关于历史事件和人物的故事'
+      },
+      'ja': {
+        'nature_package': '自然教育パッケージ',
+        'nature_package_desc': '自然と環境に関する教育的な物語',
+        'premium_package': 'プレミアムパッケージ',
+        'premium_package_desc': '特別コンテンツとインタラクティブな物語',
+        'sports_package': 'スポーツパッケージ',
+        'sports_package_desc': 'スポーツと健康的な生活に関する物語',
+        'history_package': '歴史教育パッケージ',
+        'history_package_desc': '歴史的な出来事と人物に関する物語'
+      },
+      'es': {
+        'nature_package': 'Paquete Educativo de Naturaleza',
+        'nature_package_desc': 'Historias educativas sobre naturaleza y medio ambiente',
+        'premium_package': 'Paquete Premium',
+        'premium_package_desc': 'Contenido especial e historias interactivas',
+        'sports_package': 'Paquete Deportivo',
+        'sports_package_desc': 'Historias sobre deportes y vida saludable',
+        'history_package': 'Paquete Educativo de Historia',
+        'history_package_desc': 'Historias sobre eventos y personajes históricos'
+      },
+    };
