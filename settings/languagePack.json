@@ -1,63 +1,44 @@
 {
-      "tr": {
-        "package_002": "Doğa Bilgilendirici Paket",
-        "package_002_desc": "Doğa ve çevre temalı eğitici masallar",
-        "package_003": "Premium Paket",
-        "package_003_desc": "Özel içerikli ve interaktif masallar",
-        "package_004": "Spor İçerikli Paket",
-        "package_004_desc": "Spor ve sağlıklı yaşam temalı masallar",
-        "package_005": "Tarih Bilgilendirici Paket",
-        "package_005_desc": "Tarihi olaylar ve karakterler hakkında masallar"
-        
-      },
-      "en": {
-        "package_002": "Nature Educational Package",
-        "package_002_desc": "Educational tales about nature and environment",
-        "package_003": "Premium Package",
-        "package_003_desc": "Special content and interactive tales",
-        "package_004": "Sports Package",
-        "package_004_desc": "Tales about sports and healthy living",
-        "package_005": "History Educational Package",
-        "package_005_desc": "Tales about historical events and characters"
-      },
-      "de": {
-        "package_002": "Natur-Bildungspaket",
-        "package_002_desc": "Lehrreiche Geschichten über Natur und Umwelt",
-        "package_003": "Premium-Paket",
-        "package_003_desc": "Spezielle Inhalte und interaktive Geschichten",
-        "package_004": "Sport-Paket",
-        "package_004_desc": "Geschichten über Sport und gesundes Leben",
-        "package_005": "Geschichts-Bildungspaket",
-        "package_005_desc": "Geschichten über historische Ereignisse und Charaktere"
-      },
-      "zh": {
-        "package_002": "自然教育包",
-        "package_002_desc": "关于自然和环境的教育故事",
-        "package_003": "高级包",
-        "package_003_desc": "特别内容和互动故事",
-        "package_004": "运动包",
-        "package_004_desc": "关于运动和健康生活的故事",
-        "package_005": "历史教育包",
-        "package_005_desc": "关于历史事件和人物的故事"
-      },
-      "ja": {
-        "package_002": "自然教育パッケージ",
-        "package_002_desc": "自然と環境に関する教育的な物語",
-        "package_003": "プレミアムパッケージ",
-        "package_003_desc": "特別コンテンツとインタラクティブな物語",
-        "package_004": "スポーツパッケージ",
-        "package_004_desc": "スポーツと健康的な生活に関する物語",
-        "package_005": "歴史教育パッケージ",
-        "package_005_desc": "歴史的な出来事と人物に関する物語"
-      },
-      "es": {
-        "package_002": "Paquete Educativo de Naturaleza",
-        "package_002_desc": "Historias educativas sobre naturaleza y medio ambiente",
-        "package_003": "Paquete Premium",
-        "package_003_desc": "Contenido especial e historias interactivas",
-        "package_004": "Paquete Deportivo",
-        "package_004_desc": "Historias sobre deportes y vida saludable",
-        "package_005": "Paquete Educativo de Historia",
-        "package_005_desc": "Historias sobre eventos y personajes históricos"
-      }
-    }
+  "tr": {
+    "package_002": "Doğa Bilgilendirici Paket",
+    "package_003": "Premium Paket",
+    "package_004": "Spor İçerikli Paket",
+    "package_005": "Tarih Bilgilendirici Paket",
+    "package_006": "Özel Gün Masalları"
+  },
+  "en": {
+    "package_002": "Nature Educational Package",
+    "package_003": "Premium Package",
+    "package_004": "Sports Package",
+    "package_005": "History Educational Package",
+    "package_006": "Special Day Tales"
+  },
+  "de": {
+    "package_002": "Natur-Bildungspaket",
+    "package_003": "Premium-Paket",
+    "package_004": "Sport-Paket",
+    "package_005": "Geschichts-Bildungspaket",
+    "package_006": "Geschichten zu besonderen Anlässen"
+  },
+  "zh": {
+    "package_002": "自然教育包",
+    "package_003": "高级包",
+    "package_004": "运动包",
+    "package_005": "历史教育包",
+    "package_006": "特殊日子的故事"
+  },
+  "ja": {
+    "package_002": "自然教育パッケージ",
+    "package_003": "プレミアムパッケージ",
+    "package_004": "スポーツパッケージ",
+    "package_005": "歴史教育パッケージ",
+    "package_006": "特別な日の物語"
+  },
+  "es": {
+    "package_002": "Paquete Educativo de Naturaleza",
+    "package_003": "Paquete Premium",
+    "package_004": "Paquete Deportivo",
+    "package_005": "Paquete Educativo de Historia",
+    "package_006": "Cuentos para Días Especiales"
+  }
+}
