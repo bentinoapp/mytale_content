@@ -1,4 +1,4 @@
-const Map<String, Map<String, String>> translations = {
+{
       'tr': {
         'package_002': 'Doğa Bilgilendirici Paket',
         'package_002_desc': 'Doğa ve çevre temalı eğitici masallar',
