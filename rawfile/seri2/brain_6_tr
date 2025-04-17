@@ -1,0 +1,201 @@
+Robo ve Kod Ormanı
+Kahramanımız yine [HERO] ve her zamanki gibi cinsiyet belirtilmiyor.
+Masalımız en az 1000 kelime uzunluğunda, dikkat, sıralama, mantıksal düşünme ve temel algoritmik kavramlara odaklanan bir kurguya sahip.
+
+Bölüm 1: Kırmızı Düğme
+[HERO], o sabah büyük bir heyecanla uyandı.
+Çünkü gece rüyasında sürekli tekrar eden bir şey görmüştü:
+Bir robot.
+Kocaman gözleri vardı, gövdesinde renkli ışıklar, ve her adımında çıkan tıkırtılarla etrafına bir ritim yayıyordu.
+
+Robot sürekli şunu söylüyordu:
+
+“Kod tamamlanmadı. Son adım eksik. Kod tamamlanmadı.”
+
+Uyanır uyanmaz başucundaki çekmeceye baktı. İçinde geceden kalma LEGO parçaları, bir kurşun kalem ve kırmızı bir düğme buldu.
+Düğme… rüyasındaki robota aitti!
+
+Düğmeye bastığı anda odanın içi dijital bir ışıltıyla doldu.
+Tavandan aşağıya holografik bir yol haritası indi.
+Ortasında bir tabela belirdi:
+
+“KOD ORMANI’NA HOŞ GELDİN, [HERO].
+Bu dünyada yalnızca doğru adımlarla ilerlenir.
+Sıralamayı bozan, kaybolur.
+Robot Robo seni bekliyor.”
+
+Bir ışık parladı.
+Ve birden [HERO], kendi odasından çıkıp bambaşka bir yere geçti.
+
+Bölüm 2: Kod Ormanı’nın Girişi
+Kod Ormanı, doğal ve teknolojik öğelerin tuhaf bir karışımıydı.
+Ağaçlar metal gövdeli ama yaprakları yeşildi.
+Kuşlar veri paketleri gibi uçuşuyor, yerdeki karıncalar sinyallerle konuşuyordu.
+
+Tam ormanın girişinde bir tabela:
+
+“Bu ormanda ilerlemek için yalnızca 3 kural var:
+
+Her adımın bir amacı olmalı.
+
+Her komut bir sonrakine yol açmalı.
+
+Hatalar öğreticidir ama geri döndürülemez.
+Hazır mısın?”
+
+[HERO], evet dercesine başını salladı.
+
+Ve tam karşıda bir ses yükseldi:
+
+“Zrrrrr… Merhaba [HERO]! Ben Robo!
+Seninle birlikte eksik kodumu tamamlamak istiyorum.
+Eğer başarılı olursak, hem ben hem sen yeni şeyler öğreniriz!”
+
+Robo’nun gözleri renk değiştirdi ve önünde dijital bir ekran açıldı.
+Üzerinde yalnızca bir satır yazıyordu:
+
+Yürümek -> Dönmek -> Zıplamak -> ?
+
+Robo durdu. “Eksik komutu bulamazsak, devrelerim hep aynı döngüde kalır.”
+
+Bölüm 3: Hareketlerin Mantığı
+[HERO], sıralamaya baktı:
+
+Yürümek
+
+Dönmek
+
+Zıplamak
+
+?
+
+“Ne olabilir?” diye düşündü.
+Yürümek → düz ilerleme
+Dönmek → yön değişimi
+Zıplamak → yukarı hareket
+
+Sırada ne olabilir?
+
+“Durmak!” dedi [HERO].
+
+“Çünkü her hareketin sonunda durulur. Yoksa sonsuza kadar gideriz.”
+
+Robo’nun gözleri parladı.
+
+“Cevap… UYUMLU! Kod satırı tamamlandı!”
+Yürümek -> Dönmek -> Zıplamak -> Durmak
+
+Ama bu sadece ilk adımdı.
+
+Bölüm 4: Döngü Vadisi
+Ormanın içinde ilerlediklerinde karşılarına dairesel bir vadide dolaşan ışıklı bir yol çıktı.
+Yolun tabelasında şu yazıyordu:
+
+“Bu döngü içinde aynı hareketi sürekli tekrar edenler asla ilerleyemez.
+Gerçek bir döngü ancak çıkış koşulu konulursa tamamlanır.
+Koşul nedir?”
+
+[HERO] ve Robo yürümeye başladılar.
+Işık yolu onları tekrar aynı noktaya getiriyordu.
+İkinci turda bir çiçek açtı.
+Üçüncü turda bir kelebek geçti.
+Dördüncü turda hafif bir melodi çaldı.
+
+“Bir şeyler değişiyor ama biz aynı yerdeyiz,” dedi Robo.
+
+[HERO], düşündü.
+Her şey tekrar ediyor. Ama bir desen var.
+
+Çiçek → 1
+Kelebek → 2
+Melodi → 3
+
+“Dur!” dedi [HERO].
+“Bu döngü 3 adımda bir değişiyor.
+Demek ki döngü koşulu = 3 tur!”
+
+Robo ekledi:
+
+“Harika! Bu bir döngü kontrolüydü:
+for i in range(3): ...”
+
+Aniden yol açıldı. Yeni bir alan belirdi.
+
+Bölüm 5: Karar Ağaçları
+Kod Ormanı'nın merkezine geldiklerinde, her biri farklı semboller taşıyan beş ağaç çıktı karşılarına:
+
+Kalp
+
+Yıldız
+
+Soru işareti
+
+Göz
+
+Elektrik simgesi
+
+Her ağacın altında bir düğme vardı.
+
+Robo’nun ekranında yeni bir kod parçası belirdi:
+
+if duygusal: kalp
+elif mantıksal: ?
+elif gözlemci: ?
+else: yıldız
+
+Robo sordu:
+“Karar ağacım eksik. Hangi semboller mantık ve gözlemle eşleşir?”
+
+[HERO], düşündü.
+
+Mantık → Soru işareti. Çünkü mantıklı olan sorgular.
+
+Gözlem → Göz simgesi.
+
+[HERO], ilgili düğmelere bastı.
+
+Kod tamamlandı:
+
+if duygusal: kalp
+elif mantıksal: ? → doğru
+elif gözlemci: göz
+else: yıldız
+
+Robo gülümsedi. “Kodum tam! Şimdi çalışabilirim!”
+
+Ama bir sürpriz daha vardı.
+
+Bölüm 6: Kodun Özü
+Robo aniden durdu.
+
+“Ama... [HERO]? Kod yazmak yetiyor mu?
+Ya yanlış yaparsam?”
+
+[HERO] eğildi, Robo’nun göz hizasına indi.
+
+“Her kod, denemek içindir. Hatalar sadece öğrenmeye giden yoldur.
+Yanlış yaptığında sistem değil, sen büyürsün.”
+
+Robo’nun gözleri parladı.
+
+“Bu… bir ‘try’ bloğu gibi.
+Kodlar, hayat gibi.
+Deneriz… bazen hata verir, ama sonra çalışır!”
+
+Ve Robo’nun üst panelinde şu yazı belirdi:
+
+try:
+...adım at
+except:
+...yeniden dene
+
+Ve Masalın Sonunda...
+[HERO], odasına döndüğünde masasında küçük bir hologram parladı.
+Robo, küçük bir figür hâlindeydi ama göz kırpıyordu.
+
+[HERO], artık sadece teknolojiye değil, adım adım düşünmeye, hata yapma cesaretine ve mantıklı ilerlemeye değer veriyordu.
+
+Çünkü Kod Ormanı’nda şunu öğrenmişti:
+
+“Bir düşünce, ancak doğru sırayla ilerlediğinde çalışır.
+Ama her hata, daha iyi bir yol haritası çizer.”
