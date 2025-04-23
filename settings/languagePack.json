@@ -1,44 +1,56 @@
 {
   "tr": {
-    "package_002": "Doğa Bilgilendirici Paket",
-    "package_003": "Premium Paket",
-    "package_004": "Spor İçerikli Paket",
-    "package_005": "Tarih Bilgilendirici Paket",
-    "package_006": "Özel Gün Masalları"
+    "package_002": "Duygular Ülkesi",
+    "package_003": "Gelişen Zihinler İçin Masallar",
+    "package_004": "Dinazor Masalları",
+    "package_005": "Eğitici Masallar",
+    "package_006": "Erdemler Diyarı",
+    "package_007": "Gezegen Masalları",
+    "package_008": "Zamanda Yolculuk Masalları"
   },
   "en": {
-    "package_002": "Nature Educational Package",
-    "package_003": "Premium Package",
-    "package_004": "Sports Package",
-    "package_005": "History Educational Package",
-    "package_006": "Special Day Tales"
+    "package_002": "Land of Emotions",
+    "package_003": "Fairy Tales for Growing Minds",
+    "package_004": "Dinosaur Tales",
+    "package_005": "Educational Tales",
+    "package_006": "Land of Virtues",
+    "package_007": "Planet Tales",
+    "package_008": "Time Travel Tales"
   },
   "de": {
-    "package_002": "Natur-Bildungspaket",
-    "package_003": "Premium-Paket",
-    "package_004": "Sport-Paket",
-    "package_005": "Geschichts-Bildungspaket",
-    "package_006": "Geschichten zu besonderen Anlässen"
+    "package_002": "Land der Gefühle",
+    "package_003": "Märchen für wachsende Köpfe",
+    "package_004": "Dinosaurier-Geschichten",
+    "package_005": "Lehrreiche Geschichten",
+    "package_006": "Land der Tugenden",
+    "package_007": "Planeten-Geschichten",
+    "package_008": "Zeitreise-Geschichten"
   },
   "zh": {
-    "package_002": "自然教育包",
-    "package_003": "高级包",
-    "package_004": "运动包",
-    "package_005": "历史教育包",
-    "package_006": "特殊日子的故事"
+    "package_002": "情感之国",
+    "package_003": "成长思维的童话故事",
+    "package_004": "恐龙故事",
+    "package_005": "教育故事",
+    "package_006": "美德之地",
+    "package_007": "行星故事",
+    "package_008": "时间旅行故事"
   },
   "ja": {
-    "package_002": "自然教育パッケージ",
-    "package_003": "プレミアムパッケージ",
-    "package_004": "スポーツパッケージ",
-    "package_005": "歴史教育パッケージ",
-    "package_006": "特別な日の物語"
+    "package_002": "感情の国",
+    "package_003": "成長する心のためのおとぎ話",
+    "package_004": "恐竜のお話",
+    "package_005": "教育的なお話",
+    "package_006": "美徳の国",
+    "package_007": "惑星のお話",
+    "package_008": "タイムトラベルのお話"
   },
   "es": {
-    "package_002": "Paquete Educativo de Naturaleza",
-    "package_003": "Paquete Premium",
-    "package_004": "Paquete Deportivo",
-    "package_005": "Paquete Educativo de Historia",
-    "package_006": "Cuentos para Días Especiales"
+    "package_002": "País de las Emociones",
+    "package_003": "Cuentos para Mentes en Crecimiento",
+    "package_004": "Cuentos de Dinosaurios",
+    "package_005": "Cuentos Educativos",
+    "package_006": "País de las Virtudes",
+    "package_007": "Cuentos de Planetas",
+    "package_008": "Cuentos de Viajes en el Tiempo"
   }
 }
